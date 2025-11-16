@@ -1,6 +1,8 @@
 # MathPresentationsAU
 
-Create a PR adding your name to the table
+Create a PR adding your name to the table. 
+
+3 - 4 pm - Haughey Hall (Math Dept) 122
 
 | Date | Name | Topic |
 |--------|-----------------|-------------------------------------------------------------------|
